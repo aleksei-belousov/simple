@@ -12,3 +12,4 @@ CLASS lhc_simple IMPLEMENTATION.
   ENDMETHOD.
 
 ENDCLASS.
+* a Change
